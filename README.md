@@ -1,6 +1,6 @@
 # Dependencies
 - [Node.js](https://nodejs.org)
-- Access to a Zipline instance
+- Access to a [Zipline](https://github.com/diced/zipline) instance
 - A Windows machine (may add support for other OS in the future)
 
 # Features
