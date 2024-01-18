@@ -5,6 +5,7 @@
 
 # Features
 - Upload via drag and drop or a specified file path which gets passed as an argument (useful for implementing into applications).
+- Automatically chunks files that are bigger than 95mb into the size specified in the ".env" file (20mb by default).
 - Copies the URL to your clipboard once the file is uploaded (Windows only currently).
 
 # How to use
